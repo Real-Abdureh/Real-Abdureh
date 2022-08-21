@@ -22,7 +22,10 @@
 <a href="https://stackoverflow.com/users/real-abdureh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="real-abdureh" height="30" width="40" /></a>
 <a href="https://fb.com/abdouliabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdouliabbas" height="30" width="40" /></a>
 <a href="https://instagram.com/abdouliabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdouliabbas" height="30" width="40" /></a>
-<a href="https://medium.com/@abdouliabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdouliabbas" height="30" width="40" /></a>
+<a href="https://medium.com/@abdouliabbas75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdouliabbas75" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@abdouliabbas75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abdouliabbas75" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@abdouliabbas75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abdouliabbas75" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abdoulialqot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abdoulialqot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
