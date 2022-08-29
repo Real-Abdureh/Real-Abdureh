@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Abdoul</h1>
+<h1 align="center">Hi 👋, I'm Abdoul</h1>
 <h3 align="center">A passionate web developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-abdureh&label=Profile%20views&color=0e75b6&style=flat" alt="real-abdureh" /> </p>
