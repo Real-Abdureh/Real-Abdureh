@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.abdouliabbas.netlify.app](www.abdouliabbas.netlify.app)
 
-- 💬 Ask me about **python, django, javaScript**
+- 💬 Ask me about **Python, django, javaScript**
 
 - 📫 How to reach me **abdouliabbas75@gmail.com**
 
