@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django, flask**
 
-- 👨‍💻 All of my projects are available at [www.abdouliabbas.netlify.app](www.abdouliabbas.netlify.app)
+- 👨‍💻 All of my projects are available @ [www.abdouliabbas.netlify.app](www.abdouliabbas.netlify.app)
 
 - 💬 Ask me about **Python, django, javaScript**
 
