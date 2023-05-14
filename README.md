@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=real-abdureh" alt="real-abdureh" /></a> </p>
 
-- 🔭 I’m currently working on [startup Project](https://github.com/Real-abdureh)
+- 🔭 I’m Currently working on [startup Project](https://github.com/Real-abdureh)
 
 - 🌱 I’m currently learning **Django, flask**
 
